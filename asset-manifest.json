@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MonsterSearch/static/css/main.b314c918.chunk.css",
+    "main.js": "/MonsterSearch/static/js/main.c3893cd7.chunk.js",
+    "main.js.map": "/MonsterSearch/static/js/main.c3893cd7.chunk.js.map",
+    "runtime-main.js": "/MonsterSearch/static/js/runtime-main.a8461c2e.js",
+    "runtime-main.js.map": "/MonsterSearch/static/js/runtime-main.a8461c2e.js.map",
+    "static/js/2.b6f2604e.chunk.js": "/MonsterSearch/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "/MonsterSearch/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "/MonsterSearch/index.html",
+    "precache-manifest.54e0453f020e18955af0171c7ca55f4b.js": "/MonsterSearch/precache-manifest.54e0453f020e18955af0171c7ca55f4b.js",
+    "service-worker.js": "/MonsterSearch/service-worker.js",
+    "static/css/main.b314c918.chunk.css.map": "/MonsterSearch/static/css/main.b314c918.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/MonsterSearch/static/js/2.b6f2604e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MonsterSearch/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8461c2e.js",
+    "static/js/2.b6f2604e.chunk.js",
+    "static/css/main.b314c918.chunk.css",
+    "static/js/main.c3893cd7.chunk.js"
+  ]
+}
