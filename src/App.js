@@ -30,11 +30,12 @@ class App extends Component {
     );
     return (
       <div className="App">
+        <h1>Sakthi's first React Monster Project</h1>
         <SearchBox
           placeholder="Search Monster"
           handleChange={this.handleChange}
         />
-        <CardList monsters={filteredMonsters} />>
+        <CardList monsters={filteredMonsters} />
       </div>
     );
   }
